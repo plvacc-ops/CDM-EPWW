@@ -1,0 +1,2 @@
+# Seperate planes based on departure SID Point
+# format: <ICAO_Airport>,<dep_rwy_sid1_and_sid_2>,,,<seperation_minutes>
