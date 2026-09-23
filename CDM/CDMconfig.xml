@@ -33,6 +33,6 @@
 	<eventPriority mode="true" />
 	<autoSetTobtFromEvSlot mode="true" />
 	<remarksOptionCtot mode="false" />
-	<PrivateMessage text="PLEASE SUBMIT YOUR TOBT AND MONITOR https://vats.im/vdgs FOR CDM AND ATFCM UPDATES. REPORT WHEN READY ACCORDING TO TSAT." />
+	<PrivateMessage text="PLEASE SUBMIT YOUR TOBT AND MONITOR https://vats.im/vdgs FOR CDM AND ATFCM UPDATES. REPORT AT TSAT +/- 5 MINUTES IF READY." />
 	<loading text="..." />
 </CDM>
